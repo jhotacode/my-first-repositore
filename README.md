@@ -1,2 +1,2 @@
-# my-first-repository
-My first repositore in github by Free Code Camp
+# my-first-readme
+My first repositore in github by Free Code Camp by the course
